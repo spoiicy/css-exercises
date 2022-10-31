@@ -1,0 +1,19 @@
+.para{
+    background-color: pink;
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+
+#identity{
+    color: blue;
+    font-size: 36px;
+}
+
+.cool{
+    font-size: 24px;
+}
+
+#another-identity{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
