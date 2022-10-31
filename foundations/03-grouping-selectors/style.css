@@ -1,0 +1,14 @@
+.tap,
+.no-tap{
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman",sans-serif;
+}
+
+.tap{
+    background-color: black;
+    color: white;
+}
+
+.no-tap{
+    background-color: yellow;
+}
